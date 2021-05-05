@@ -1,4 +1,4 @@
-# vig
+# vil
 IP grabber for educational purposes only, built with V.
 
 ## Instructions
