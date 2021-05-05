@@ -1,4 +1,4 @@
-# vil
+# V IP Logger (vil)
 IP grabber for educational purposes only, built with V.
 
 ## Instructions
